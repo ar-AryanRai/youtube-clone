@@ -1,0 +1,63 @@
+.side-bar{
+  width: 72px;
+  background-color: white;
+  position: fixed;
+  top: 56px;
+  left: 0px;
+  bottom: 0px;
+  padding-top: 5px;
+  z-index: 11;
+}
+
+.side-btns{
+  width: 72px;
+  height: 74px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.side-btns .img2{
+  width: 24px;
+  height: 24px;
+  margin-bottom: 5px;
+}
+
+.home,
+.explore,
+.subscribe,
+.origionals,
+.music,
+.Library{
+  font-size: 10px;
+  line-height: 15px;
+  height: 15px;
+}
+
+.home{
+  width: 26.9px;
+}
+
+.explore{
+  width: 32.975px;
+}
+
+.subscribe{
+  width: 60.94px;
+}
+
+.origionals{
+  width: 39.275px;
+}
+
+.music{
+  width: 68.38px;
+}
+
+a{
+  margin: 0px;
+  padding: 0px;
+  text-decoration: none;
+  color: black;
+}

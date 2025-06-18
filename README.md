@@ -2,7 +2,7 @@
 
 This is a static clone of the YouTube home page built using pure **HTML5** and **CSS3**. It replicates the layout, design, and responsiveness of YouTube’s landing interface — ideal for practicing layout structuring and styling techniques.
 
-🔗 **Live Demo**: [Click here to view the project](https://ar-aryanrai.github.io/youtube-clone/)
+🔗 **Live Demo**: [Click here to visit youtube clone](https://ar-aryanrai.github.io/youtube-clone/)
 
 ---
 
